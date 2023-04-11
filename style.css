@@ -2,3 +2,14 @@ header{
    background-color: #383d58;
    color: white;
 }
+
+.cabecalho-imagens{
+   width: 10%;
+}
+
+.cabecalho{
+   display:flex;
+} 
+.cabecalho-lista-item{
+   display: inline-block;
+ }
